@@ -113,7 +113,7 @@ body {
     position: relative;
     height: 100vh; /* Full viewport height */
     width: 100%; /* Full width of the viewport */
-    background-image: url('images/laptop.jpg'); /* Your background image */
+    background-image: url('laptop.jpg'); /* Your background image */
     background-size: cover;
     background-position: center;
     display: flex;
